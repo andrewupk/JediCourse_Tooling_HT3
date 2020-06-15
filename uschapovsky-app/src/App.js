@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import styles from "./App.module.scss";
+import "sanitize.css";
 
 function App() {
   return (
